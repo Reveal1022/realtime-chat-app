@@ -3,5 +3,5 @@
 ### Features
 
 - Support multiple users
-- Realtime messaging
+- Realtime messaging using socket.io
 - Low latency
